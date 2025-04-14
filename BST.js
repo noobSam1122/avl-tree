@@ -403,7 +403,7 @@ export default class BST {
             node.left = null;
             node.right = null;
             node.parent = null;
-            node.value = null; 3
+            node.value = null;
             node = null;
         }
         this.nodeCount = 0;
